@@ -1,5 +1,5 @@
 <template>
-    <div>
-        jhghhjh
-    </div>
+  <div class="container">
+    jhjhj
+  </div>
 </template>

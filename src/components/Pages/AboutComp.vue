@@ -1,8 +1,8 @@
 <template>
-    <div>
-        <FooterComp/>
+    <div class="container">
+      hhhhh
     </div>
 </template>
 <script setup>
-import FooterComp from '../Common/FooterComp.vue';
+
 </script>
